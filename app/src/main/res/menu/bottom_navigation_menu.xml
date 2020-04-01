@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/icon_requst"
+            android:icon="@drawable/ic_notification"
+            android:title="@string/requst" />
+        <item
+            android:id="@+id/icon_activate"
+            android:icon="@drawable/ic_activate"
+            android:title="@string/accepted" />
+        <item android:title="@string/profil"
+            android:id="@+id/ic_profil"
+            android:icon="@drawable/ic_profil"/>
+
+</menu>

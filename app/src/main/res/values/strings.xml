@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyProj</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="create_account">Нет профиля?Создать аккаунт</string>
+    <string name="log_in">Войти</string>
+    <string name="requst">Заявки</string>
+    <string name="accepted">Принятые</string>
+    <string name="profil">Профиль</string>
+    <string name="price">145</string>
+    <string name="address">address</string>
+    <string name="title">title</string>
+    <string name="inforamation_order">Информация о заказе</string>
+    <string name="hide">Скрыть</string>
+</resources>
